@@ -1,0 +1,20 @@
+.price-cont {
+  display: flex;
+  justify-content: space-between;
+  color: #565656;
+}
+.min-max-value {
+  font-size: 19px;
+  font-weight: bolder;
+}
+.min-max-value span {
+  padding-left: 10px;
+  font-weight: initial;
+  font-size: 16px;
+}
+.value-anime-appear {
+  display: none;
+}
+.value-anime-disappear {
+  display: block;
+}

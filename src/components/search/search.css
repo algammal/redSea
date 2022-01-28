@@ -1,0 +1,84 @@
+.navshort-cont {
+  width: 90%;
+  margin: 0px auto;
+  padding-top: 50px;
+}
+.navshort-cont-head {
+  text-align: left;
+  background-color: #848e92;
+}
+.navshort-tab {
+  width: fit-content;
+  padding: 10px;
+  background-color: #fe641b;
+  color: #fff;
+  min-width: 80px;
+  padding-left: 16px;
+}
+.search-cont {
+  display: flex;
+  background-color: #dde0e1;
+}
+.search-section {
+  border-right: 1px solid #c9cccc;
+  min-width: 140px;
+}
+.search-section:first-child {
+  min-width: 183px;
+  display: flex;
+  padding-left: 5px;
+}
+.search-section:first-child input {
+  border: 0px;
+  background-color: transparent;
+}
+.search-section label {
+  margin-bottom: 0px;
+}
+.search-ropdown {
+  padding: 15px;
+  border: 0px;
+  background-color: transparent;
+}
+.menu-search {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: flex-end;
+}
+.menu-search button {
+  background-color: transparent;
+  border: 1px solid #fe641b;
+  color: #fe641b;
+  margin-right: 10px;
+  width: 200px;
+}
+.dropdown {
+  position: relative;
+  display: flex;
+}
+.dropdownItemCont {
+  position: absolute;
+  width: 300px;
+  background-color: #fff;
+  display: flex;
+  top: 50px;
+  box-shadow: 5px 6px 8px #8888882b;
+  justify-content: space-around;
+}
+.numberOfChildAdultsBtn {
+  background-color: transparent;
+  border: 0px;
+}
+.inputcalendar {
+  display: flex;
+  padding-left: 3px;
+}
+.inputcalendar input {
+  width: 50px;
+  background-color: transparent;
+  border: 0px;
+}
+.calendar-value {
+  min-width: 84px;
+}

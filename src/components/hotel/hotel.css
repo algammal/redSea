@@ -1,0 +1,50 @@
+.menu-comp-cont {
+  height: 200px;
+  background-color: #acb9be;
+}
+.hotel-allcards-cont {
+  border: 1px solid #f2f2f2;
+  background-color: #fff;
+}
+.Hotel-img {
+  width: 100%;
+  height: 100%;
+}
+.hotel-card-cont {
+  display: flex;
+  text-align: left;
+  border-bottom: 1px solid #f2f2f2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.hotel-card-cont:last-child {
+  border-bottom: 0px;
+}
+.hotel-card-textcont h2 {
+  font-size: 20px;
+}
+.hotel-card-locationcont h3 {
+  font-size: 16px;
+}
+.pin {
+  padding-left: 23px;
+  background-image: url("../../images/internt_web_technology-08-512.png");
+  background-repeat: no-repeat;
+  background-size: 19px;
+  padding-right: 10px;
+}
+.star img {
+  width: 20px;
+}
+.hotel-card-subtitle ul {
+  display: flex;
+}
+.hotel-card-subtitle {
+  display: flex;
+  align-items: center;
+}
+.details-btn {
+  background-color: #5bbde4;
+  color: #fff;
+  border: 0px;
+}
